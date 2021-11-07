@@ -51,9 +51,8 @@ Following output is displayed:-
 
 ![Capture1](https://user-images.githubusercontent.com/70684116/140647791-a3080f6a-c125-4eb1-bb80-5ab7d8c09a9d.PNG)
 
-
-```
   3. Confirm Box:- It is a type of pop-up box that is used to get authorization or permission from the user. It contains Two buttons OK and Cancel. On pressing OK it returns true and redirects or performs the action while on the other hand on pressing cancel a false is returned and the action is discarded.
+  
  ```
  <html>
 <head>
